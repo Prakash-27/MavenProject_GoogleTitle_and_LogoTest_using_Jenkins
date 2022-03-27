@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-27T08:13:34 GMT-05:00" name="Default suite" finished-at="2022-03-27T08:13:49 GMT-05:00" duration-ms="14957">
+    <groups>
+    </groups>
+    <test started-at="2022-03-27T08:13:34 GMT-05:00" name="Default test" finished-at="2022-03-27T08:13:49 GMT-05:00" duration-ms="14957">
+      <class name="com.Google.GoogleTitleAndLogoTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@a530d0a]" started-at="2022-03-27T08:13:34 GMT-05:00" name="setUp" finished-at="2022-03-27T08:13:41 GMT-05:00" duration-ms="7303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googleLogoTest()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@a530d0a]" started-at="2022-03-27T08:13:41 GMT-05:00" name="googleLogoTest" finished-at="2022-03-27T08:13:41 GMT-05:00" duration-ms="126" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleLogoTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@a530d0a]" started-at="2022-03-27T08:13:41 GMT-05:00" name="tearDown" finished-at="2022-03-27T08:13:42 GMT-05:00" duration-ms="542" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@a530d0a]" started-at="2022-03-27T08:13:42 GMT-05:00" name="setUp" finished-at="2022-03-27T08:13:48 GMT-05:00" duration-ms="6354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="googleTitleTest()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@a530d0a]" started-at="2022-03-27T08:13:48 GMT-05:00" name="googleTitleTest" finished-at="2022-03-27T08:13:48 GMT-05:00" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@a530d0a]" started-at="2022-03-27T08:13:48 GMT-05:00" name="tearDown" finished-at="2022-03-27T08:13:49 GMT-05:00" duration-ms="537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Google.GoogleTitleAndLogoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
