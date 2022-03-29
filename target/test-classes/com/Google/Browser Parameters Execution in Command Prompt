@@ -1,0 +1,6 @@
+To execute the browser parameters in cmd :
+------------------------------------------
+
+mvn clean test -DBrowsertype=browserName
+
+mvn clean test -DBrowser=Firefox --> Enter
