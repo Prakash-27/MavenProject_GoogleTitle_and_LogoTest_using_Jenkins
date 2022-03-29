@@ -3,7 +3,7 @@
 <suite name="GooglePageOpenSuite">
   <test thread-count="5" name="GoogleTitleAndLogoTest">
     <classes>
-      <class name="com.Google.GoogleTitleAndLogoTest" />
+      <class name="com.Google.GoogleTitleAndLogoTest"/>
     </classes>
   </test> <!-- GoogleTitleAndLogoTest -->
 </suite> <!-- GooglePageOpenSuite -->
