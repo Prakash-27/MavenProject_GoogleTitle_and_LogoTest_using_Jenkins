@@ -2,32 +2,46 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="GooglePageOpenSuite" duration-ms="21127" started-at="2022-03-27T08:55:13 GMT-05:00" finished-at="2022-03-27T08:55:34 GMT-05:00">
+  <suite name="GooglePageOpenSuite" duration-ms="31058" started-at="2022-03-29T01:38:31 GMT-05:00" finished-at="2022-03-29T01:39:02 GMT-05:00">
     <groups>
     </groups>
-    <test name="GoogleTitleAndLogoTest" duration-ms="21127" started-at="2022-03-27T08:55:13 GMT-05:00" finished-at="2022-03-27T08:55:34 GMT-05:00">
+    <test name="GoogleTitleAndLogoTest" duration-ms="31058" started-at="2022-03-29T01:38:31 GMT-05:00" finished-at="2022-03-29T01:39:02 GMT-05:00">
       <class name="com.Google.GoogleTitleAndLogoTest">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@578486a3]" name="setUp" is-config="true" duration-ms="12480" started-at="2022-03-27T08:55:13 GMT-05:00" finished-at="2022-03-27T08:55:26 GMT-05:00">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.Google.GoogleTitleAndLogoTest@1dfe2924]" name="setUp" is-config="true" duration-ms="17130" started-at="2022-03-29T01:38:31 GMT-05:00" finished-at="2022-03-29T01:38:48 GMT-05:00">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="googleLogoTest()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@578486a3]" name="googleLogoTest" duration-ms="197" started-at="2022-03-27T08:55:26 GMT-05:00" finished-at="2022-03-27T08:55:26 GMT-05:00">
+        <test-method status="PASS" signature="googleLogoTest()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@1dfe2924]" name="googleLogoTest" duration-ms="336" started-at="2022-03-29T01:38:48 GMT-05:00" finished-at="2022-03-29T01:38:49 GMT-05:00">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@578486a3]" name="tearDown" is-config="true" duration-ms="891" started-at="2022-03-27T08:55:26 GMT-05:00" finished-at="2022-03-27T08:55:27 GMT-05:00">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@1dfe2924]" name="tearDown" is-config="true" duration-ms="2460" started-at="2022-03-29T01:38:49 GMT-05:00" finished-at="2022-03-29T01:38:51 GMT-05:00">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@578486a3]" name="setUp" is-config="true" duration-ms="6485" started-at="2022-03-27T08:55:27 GMT-05:00" finished-at="2022-03-27T08:55:33 GMT-05:00">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.Google.GoogleTitleAndLogoTest@1dfe2924]" name="setUp" is-config="true" duration-ms="8972" started-at="2022-03-29T01:38:51 GMT-05:00" finished-at="2022-03-29T01:39:00 GMT-05:00">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="googleTitleTest()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@578486a3]" name="googleTitleTest" duration-ms="15" started-at="2022-03-27T08:55:33 GMT-05:00" finished-at="2022-03-27T08:55:33 GMT-05:00">
+        <test-method status="PASS" signature="googleTitleTest()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@1dfe2924]" name="googleTitleTest" duration-ms="26" started-at="2022-03-29T01:39:00 GMT-05:00" finished-at="2022-03-29T01:39:00 GMT-05:00">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- googleTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@578486a3]" name="tearDown" is-config="true" duration-ms="960" started-at="2022-03-27T08:55:33 GMT-05:00" finished-at="2022-03-27T08:55:34 GMT-05:00">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Google.GoogleTitleAndLogoTest@1dfe2924]" name="tearDown" is-config="true" duration-ms="2047" started-at="2022-03-29T01:39:00 GMT-05:00" finished-at="2022-03-29T01:39:02 GMT-05:00">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
